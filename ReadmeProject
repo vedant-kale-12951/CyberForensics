@@ -1,0 +1,27 @@
+1. Case Overview:
+  Objective: Investigation of a USB thumb drive to identify potential misconduct involving viewing pornography and sexual harassment during office hours.
+  Key Suspects: Bob Matenson (IT Director) and Rick Bell (Accounting Director).
+2. Evidence Handling:
+  Received USB thumb drive and created an exact forensic image using FTK Imager.
+  Verified hash values to ensure the integrity of the copied data.
+  Used Autopsy and FTK Imager for analysis.
+3. Findings:
+  Recovered Files:
+  Three password-protected Microsoft Word documents (_00001.doc, _00002.doc, _00003.doc).
+  Six image files, including evidence of graphic adult and child pornography.
+  Key Evidence:
+  Word Documents:
+  Contained incriminating messages between Bob and Rick indicating the exchange of inappropriate images and evidence of sexual harassment.
+  Metadata showed creation and modification by Bob Matenson, with password protection used to conceal content.
+  Image Files:
+  Recovered cat (child-related) and dog (adult-related) images, categorized as pornography per Illinois state law.
+4. Analysis:
+  Incriminating content confirms the involvement of Bob Matenson and Rick Bell in the misconduct.
+  Metadata analysis and password protection suggest deliberate attempts to cover tracks.
+  Misconduct spanned a timeline from 2001 to 2006.
+5. Conclusion:
+  The investigation substantiated Mr. Smith’s allegations against the suspects.
+  All relevant evidence was securely stored, with non-implicating data returned to the client.
+6. Tools and Procedures:
+  Software: Autopsy 4.20.0, FTK Imager 4.7.1.2, Passware.
+  Policies adhered to for evidence collection, analysis, and storage.
